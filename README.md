@@ -1,72 +1,84 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋, I'm Saikishore Manthri  
 
-###
+🚀 **Full Stack Developer | Problem Solver | Tech Enthusiast**  
 
-<p align="left">My name is Saikishore Manthri and I'm a SDE at cognizant as FSd.</p>
+📧 manthrisaikishore@gmail.com • 📱 +91 93928 82561  
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikishore-manthri/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikishoreMSK)  
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🧑‍💻 About Me  
+- 🌱 Currently an **SDE Intern @ Cognizant** (Java Full Stack)  
+- 💡 Co-Founded [Zentlify.com](#) → An Amazon-affiliated e-commerce platform (500+ products, ₹30k+ revenue)  
+- 🎯 Love building scalable **Full Stack Applications** with modern frameworks  
+- 🔥 Solved **200+ DSA problems** on LeetCode  
+- 🎹 Fun Fact: Typing speed **75 WPM (2nd Prize)**  
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+## ⚡ Tech Stack  
 
-<h2 align="left">I code with</h2>
+**Languages:**  
+`Java` • `Python` • `JavaScript`  
 
-###
+**Frontend:**  
+`React.js` • `Next.js` • `HTML` • `CSS` • `GSAP` • `Tailwind CSS`  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+**Backend:**  
+`Node.js` • `Express.js` • `Spring Boot` • `Hibernate` • `JDBC`  
 
-###
+**Databases & Cloud:**  
+`MySQL` • `MongoDB` • `Firebase` • `Cloudinary`  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saikishoreMSK.saikishoreMSK&"  />
-</div>
+**Others:**  
+`Git` • `GitHub` • `REST API` • `DSA`  
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikishoreMSK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikishoreMSK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🚀 Projects  
 
-###
+🔹 **[File Sharing Web App](#)** – Secure file sharing with Next.js, Clerk Auth & Firebase  
+🔹 **[Zentlify.com](#)** – E-commerce platform with Next.js, Firebase, Cloudinary  
+🔹 **[Its Show Time](#)** – Movie booking app with GSAP animations & email notifications  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/saikishore-manthri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+---
+
+## 💼 Experience  
+
+**Cognizant** – Java Full Stack Intern *(Jan 2025 – Feb 2025)*  
+- Built a scalable CRM system with Spring Boot & React.js  
+- Developed REST APIs for customer management & analytics dashboards  
+
+**Zentlify.com** – Co-Founder *(Jan 2024 – Dec 2024)*  
+- Launched Amazon-affiliated e-commerce store (500+ products, ₹30k+ revenue)  
+- Handled full-stack development, design & digital marketing  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saikishoreMSK&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishoreMSK&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saikishoreMSK&theme=radical&hide_border=false" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/saikishore-manthri/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-</div>
-
-###
+  <a href="mailto:manthrisaikishore@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/saikishoreMSK">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
