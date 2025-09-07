@@ -6,14 +6,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikishore-manthri/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikishoreMSK)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saikishoremsk/)  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🌱 Currently an **SDE Intern @ Cognizant** (Java Full Stack)  
-- 💡 Co-Founded [Zentlify.com](#) → An Amazon-affiliated e-commerce platform (500+ products, ₹30k+ revenue)  
+- 🌱 Currently an **SDE Java Full Stack Developer @ Cognizant**
+- 💡 Co-Founded [Zentlify.com](https://zentlify.com/) → Amazon-affiliated e-commerce platform (500+ products, ₹30k+ revenue)  
 - 🎯 Love building scalable **Full Stack Applications** with modern frameworks  
-- 🔥 Solved **200+ DSA problems** on LeetCode  
+- 🔥 Solved **300+ DSA problems** on [LeetCode](https://leetcode.com/u/saikishoremsk/)  
 - 🎹 Fun Fact: Typing speed **75 WPM (2nd Prize)**  
 
 ---
@@ -39,9 +40,11 @@
 
 ## 🚀 Projects  
 
-🔹 **[File Sharing Web App](#)** – Secure file sharing with Next.js, Clerk Auth & Firebase  
-🔹 **[Zentlify.com](#)** – E-commerce platform with Next.js, Firebase, Cloudinary  
-🔹 **[Its Show Time](#)** – Movie booking app with GSAP animations & email notifications  
+🔹 **[Realtime Code Editor](https://github.com/saikishoreMSK/realtime-code-editor)** – Collaborative code editor with live cursor tracking using Socket.IO & Monaco Editor  
+🔹 **[File Sharing Web App](https://github.com/saikishoreMSK/file-sharing-app)** – Secure file sharing with Next.js, Clerk Auth & Firebase  
+🔹 **[Zentlify.com](https://zentlify.com/)** – E-commerce platform with Next.js, Firebase, Cloudinary  
+🔹 **[Its Show Time](https://github.com/saikishoreMSK/itsshowtime)** – Movie booking app with GSAP animations & email notifications  
+🔹 **[REST Countries API Project](https://github.com/saikishoreMSK/RestCountries)** – Frontend Mentor challenge project  
 
 ---
 
@@ -57,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub & Coding Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saikishoreMSK&show_icons=true&theme=radical" height="170"/>
@@ -66,6 +69,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saikishoreMSK&theme=radical&hide_border=false" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikishoreMSK&theme=radical" height="200"/>
+</p>
+
+---
+
+## 🏆 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/saikishoremsk?theme=dark&font=Montserrat&ext=heatmap" height="220"/>
 </p>
 
 ---
